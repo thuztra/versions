@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/thuztra/thuztra-ide/releases/download/1.121.04602/ThuztraUserSetup-x64-1.121.04602.exe",
-  "name": "1.121.04602",
-  "version": "513351622f46ea8af1b0db0583b0c1b1c6bf3fa5",
-  "productVersion": "1.121.4602.0",
-  "hash": "ce0b44134e5c961381f260b1af31820c3fecb4c6",
-  "timestamp": "1783710769449",
-  "sha256hash": "d0ad3257f9345543d249184d8d7449c0320aed93a18be3abd4c45573dcad546d"
+  "url": "https://github.com/thuztra/thuztra-ide/releases/download/1.121.04606/ThuztraUserSetup-x64-1.121.04606.exe",
+  "name": "1.121.04606",
+  "version": "53587223cb3649e206ad51259342cd85f6fde5e2",
+  "productVersion": "1.121.4606.0",
+  "hash": "b1680bf1d32e832d90dc85d8b81324a1fb64e6e6",
+  "timestamp": "1783725807200",
+  "sha256hash": "52d10e516a4de7d7cc48cd882ef69bd37e8619e74a705b71db754ea96d240056"
 }
